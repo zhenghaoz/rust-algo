@@ -1,0 +1,11 @@
+[package]
+name = "rust-sort"
+version = "0.1.0"
+authors = ["Zhenghao Zhang <zhangzhenghao@hotmail.com>"]
+
+[dependencies]
+rand = "0.7"
+
+[[bin]]
+name = "rust-sort"
+path = "main.rs"
