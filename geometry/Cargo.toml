@@ -1,0 +1,10 @@
+[package]
+name = "rust-geometry"
+version = "0.1.0"
+authors = ["Zhenghao Zhang <zhangzhenghao@hotmail.com>"]
+
+[dependencies]
+
+[lib]
+name = "rust_geometry"
+path = "lib.rs"
